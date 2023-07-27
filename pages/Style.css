@@ -1,0 +1,68 @@
+
+body {
+  background-color: #DDA0DD;
+  font-family: verdana;
+  font-size:15px;
+   background-image: url("photo/45.jpg");
+   background-repeat: repeat-x;
+    background-position: right top;
+	
+	
+}
+.class1 {
+	background-color: #FFC0CB;
+}
+.class2 {
+	background-color: #DB7093;
+}
+#id {
+	background-color: #FF1493;
+}
+#idto {
+	background-color: #8A2BE2;
+}
+h1 {
+  color: #800080;
+   text-align: center;
+     font-size:35px;
+  eight: 100%;
+  width: 70%;
+  border: 6px solid #9400D3;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding: 50px;
+  
+}
+
+/* In the future, change the color scheme to neon */
+
+
+h3 {
+  color: #800080;
+  text-shadow: 2px 1px;
+  
+}
+h4 {
+  color: #800080;
+  
+  text-shadow: 2px 1px;
+}
+p {
+  color: #800080;
+opacity: 0.6;
+}
+a:link {
+  color: red;
+  background-color: #E6E6FA;
+  display: inline-block;
+}
+a:visited {
+  color: green;
+  }
+a:hover {
+  color: #FF00FF;
+ }
+
+<body>
